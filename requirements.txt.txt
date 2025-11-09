@@ -1,0 +1,4 @@
+py2neo>=2021.2.3
+flask>=2.0.0
+jieba>=0.42.1
+ahocorasick>=1.4.0
